@@ -9,9 +9,10 @@ Ola, I'm Hamza! I love coping with problems and challenges which can be countere
 - Research and Reviews published in IEEE, Springer, ACM - Cited by papers from international conferences and reputed publications 
 - Experience in different software development frameworks and languages - Currently looking for full-time roles starting January 2023
 
+### More about me
 *   🌍  I'm based in Buffalo, New York
 *   ✉️  You can contact me at [habubakar89@gmail.com](mailto:habubakar89@gmail.com)
-*   🤝  I'm open to collaborating on Impactful
+*   🤝  I'm open to collaborating on Impactful yet fun stuff
 *   ⚡  Develop || Travel || Hike || Write : I'm all in!
 
 ### Skills
@@ -34,7 +35,7 @@ Ola, I'm Hamza! I love coping with problems and challenges which can be countere
                     </p>
                     
 ### Socials                         
-<p align="left"> <a href="https://www.github.com/habubakar89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_whyser_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/whyser/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@habubakar89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/habubakar89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <ahref="http://www.instagram.com/_whyser_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <ahref="https://www.linkedin.com/in/whyser/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <ahref="http://www.medium.com/@habubakar89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 <b>My GitHub Stats</b>
