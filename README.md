@@ -4,7 +4,10 @@ Hi 👋 My name is Hamza Abubakar
 Software Development | Artificial Intelligence
 ----------------------------------------------
 
-Ola, I'm Hamza! I love coping with problems and challenges which can be countered through different facets of technology. - 4 years of published background (self + academic) in AI and Blockchain - Research and Reviews published in IEEE, Springer, ACM - Cited by papers from international conferences and reputed publications - Experience in different software development frameworks and languages - Currently looking for full-time roles starting January 2023
+Ola, I'm Hamza! I love coping with problems and challenges which can be countered through different facets of technology. 
+- 4 years of published background (self + academic) in AI and Blockchain 
+- Research and Reviews published in IEEE, Springer, ACM - Cited by papers from international conferences and reputed publications 
+- Experience in different software development frameworks and languages - Currently looking for full-time roles starting January 2023
 
 *   🌍  I'm based in Buffalo, New York
 *   ✉️  You can contact me at [habubakar89@gmail.com](mailto:habubakar89@gmail.com)
