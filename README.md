@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamza Abubakar
+Hi 👋 My name is Hamza Abubakar Kheruwala
 ==============================
 
 Software Engineer | Applied AI & Distributed Systems
